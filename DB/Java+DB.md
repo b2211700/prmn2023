@@ -1,5 +1,5 @@
 ## 事前準備
-- IntelliJ IDEAを起動し、ファイル　→　新規　→　プロジェクトを選択する。
+* IntelliJ IDEAを起動し、ファイル　→　新規　→　プロジェクトを選択する。
 
 
   
@@ -7,17 +7,17 @@
 
 
   
-- 以下の画面になったら、「Spring Initializer」を選択し、
+* 以下の画面になったら、「Spring Initializer」を選択し、
 
-    - 名前:prmn2023
+    * 名前:prmn2023
 
-    - 言語:Java
+    * 言語:Java
 
-    - 型:Maven
+    * 型:Maven
 
-    - JDK:temurin-17
+    * JDK:temurin-17
 
-    - version:17
+    * version:17
 
 と設定し、「次へ」を押す。
 
