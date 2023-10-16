@@ -34,7 +34,7 @@ $ git config --global --list
 - [Github](https://github.co.jp/)にアクセスし、サインインする
 - Github上にリモートリポジトリを作成する
   - 以下のボタンをクリック
-  	![image](file:///Users/toriyabekako/prmn2023sub/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-10-13%209.37.24.png)
+  	![image](https://github.com/b2211700/prmn2023/blob/main/git/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-10-13%209.37.24.png)
 
   - 以下のように入力し、Create Repositoryをクリックする。ここまででリモートリポジトリは完成
   
@@ -52,8 +52,8 @@ $ git config --global --list
   ```
   $ cd
   $ cd Desktop
-  $ mkdir Prmn2023a
-  $ cd Prmn2023a
+  $ mkdir Prmn2023r
+  $ cd Prmn2023r
   ```
   
   【Windows例】 Windows(C:)>Users>ユーザ名 にディレクトリを作成する場合
@@ -62,8 +62,8 @@ $ git config --global --list
   $ cd c:
   $ cd Users
   $ cd ユーザ名
-  $ mkdir Prmn2023a
-  $ cd Prmn2023a
+  $ mkdir Prmn2023r
+  $ cd Prmn2023r
   ````
   
   先にファイルをファイルを作成する方法もある
@@ -89,7 +89,7 @@ $ git config --global --list
   【例】
   
   ```
-  $ echo "# Prmn2023a" >> README.md
+  $ echo "# Prmn2023r" >> README.md
   $ git init
   $ git add README.md
   $ git commit -m "first commit"
@@ -114,13 +114,13 @@ $ git config --global --list
 
 ### パッケージの作成
 
-- 左側のメニューの “prmn2023a” を開く
+- 左側のメニューの “prmn2023r” を開く
 - ”src” フォルダを右クリックし、New > Packageを選択
 - package nameには、”lecture01”と記入しOKを押す
 
 今後特に指示が無い場合は ”lectureXX” の形式で作成する。
 
-例: 第3回講義では、 prmn2023a/lecture03/
+例: 第3回講義では、 prmn2023r/lecture03/
 
 ![image](https://user-images.githubusercontent.com/85465441/198200330-18ced012-4f97-4718-b2b9-4b20a36f1e9a.png)
 
