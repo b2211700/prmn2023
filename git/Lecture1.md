@@ -9,12 +9,12 @@
 - **課題はGithub上にpushすること**
   - Githubの使い方を学びます
   - 課題の質問をするときなどにGithub上にあげておくと確認しやすいです
-- 時間外の質問/相談はSlackまたはZoomで  
+- 時間外の質問/相談はDiscordまたはZoomで  
   - Zoomで聞いた方がいいこともあります
 - 解答は確認程度に
   - 課題の解答がありますが、あくまで参考程度としコピペは極力しない。
 - 連絡はこまめに
-  - 既読通知機能がSlackにはないので...
+  - 既読通知機能がDiscordにはないので...
   - メンションを付けて送信すると、相手に通知されますが緊急時以外は極力避けましょう。
 
 ### Githubの準備
@@ -100,14 +100,14 @@ $ git config --global --list
 - Githubのリポジトリ上にREADE.mdというファイルが上がっていることを確認する
 
 ### プロジェクトの作成
-- Githubにpushを行うローカルリポジトリを作成したディレクトリ下に ”prmn2023a” フォルダを作る
+- Githubにpushを行うローカルリポジトリを作成したディレクトリ下に ”prmn2023r” フォルダを作る
 
 
 - IntelliJを起動後、Create New Project を選択する
 - 左側のメニューから Java を選択
 - 上部の Project SDK で 11 （この数字は異なるかも） を選択し、Nextを押す
 - もう一度Nextを押す
-- Project locationに ”prmn2023a” フォルダへのパスを入れる
+- Project locationに ”prmn2023r” フォルダへのパスを入れる
 - Finishを押す
 
 ![image](https://user-images.githubusercontent.com/85465441/197342066-9804f7bb-5231-478d-8bb0-3844b0614481.png)
