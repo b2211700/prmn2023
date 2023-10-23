@@ -4,11 +4,11 @@
 
 [・Lecture1 git](Lecture/Lecture1.md)
 
-[・Lecture2 クラスとインスタンス](Lecture/Lecture2.md)
+[・Lecture2 クラスとインスタンス](Lecture/lecture2.md)
 
-[・Lecture3 データベース1](Lecture/Lecture3.md)
+[・Lecture3 データベース1](Lecture/lecture3.md)
 
-[・Lecture4 データベース2](Lecture/Lecture3.md)
+[・Lecture4 データベース2](Lecture/lecture3.md)
 
 add
 commit
