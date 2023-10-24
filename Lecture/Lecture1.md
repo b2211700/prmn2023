@@ -1,4 +1,4 @@
-# チュートリアル
+# git
 
 ## はじめに
 
@@ -179,5 +179,16 @@ pushはできるだけ細かく行い、コメント文は簡潔に([パッケ�
 画面下部に `Process finished with exit code 0` と表示されることを確認する
 
 
+## gitの操作方法
+- 以下のリンクからgitの操作について学習してください。
+
+![gitの操作方法](https://freezing-botany-749.notion.site/git-78e71b8b562343d885b6d1e158ffa9a0)
+
+
+![gitの操作方法 実践編](https://freezing-botany-749.notion.site/1-d969a1a418aa49eca786dde3d2c29750)
+
+
+
+今回はここまでになります。お疲れさまでした。
 
 [目次へ](../README.md)

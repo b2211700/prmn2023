@@ -14,3 +14,9 @@
 - ファイルを見て、IntelliJの環境設定を行ってください。
 
 ![Java基礎編Part2](https://github.com/b2211700/prmn2023/blob/main/JAVA_base/10-11_java%E5%9F%BA%E7%A4%8E2.pdf)
+
+
+
+今回はここまでになります。お疲れさまでした。
+
+[目次へ](../README.md)
