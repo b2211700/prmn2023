@@ -38,7 +38,7 @@ $ git config --global --list
 
   - 以下のように入力し、Create Repositoryをクリックする。ここまででリモートリポジトリは完成
   
-	![image](https://github.com/Shodaiki/2022prmna/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-10-26%2011.51.44.png)
+	![image](https://i.imgur.com/u1ZeqBa.png)
 
   - リポジトリが作成されると以下のような画面が表示される。この画面のまま置いておく
   
