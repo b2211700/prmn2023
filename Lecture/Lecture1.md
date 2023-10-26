@@ -52,8 +52,8 @@ $ git config --global --list
   ```
   $ cd
   $ cd Desktop
-  $ mkdir Prmn2023r
-  $ cd Prmn2023r
+  $ mkdir Prmn2023b
+  $ cd Prmn2023b
   ```
   
   【Windows例】 Windows(C:)>Users>ユーザ名 にディレクトリを作成する場合
