@@ -156,7 +156,7 @@ $ git config --global --list
 ### パッケージの作成
 
 - 左側のメニューの “prmn2023b” を開く
-- ”src” フォルダを右クリックし、New > Packageを選択
+- ”src”  → ”main” → ”java”とフォルダを開き、”java”フォルダを右クリックし、New > Packageを選択
 - package nameには、”lecture01”と記入しOKを押す
 
 今後特に指示が無い場合は ”lectureXX” の形式で作成する。
