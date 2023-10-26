@@ -38,7 +38,7 @@ $ git config --global --list
 
   - 以下のように入力し、Create Repositoryをクリックする。ここまででリモートリポジトリは完成
   
-	![image](https://github.com/Shodaiki/2022prmna/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-10-24%2016.53.06.png)
+	![image](https://github.com/Shodaiki/2022prmna/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-10-26%2011.51.44.png)
 
   - リポジトリが作成されると以下のような画面が表示される。この画面のまま置いておく
   
@@ -62,8 +62,8 @@ $ git config --global --list
   $ cd c:
   $ cd Users
   $ cd ユーザ名
-  $ mkdir Prmn2023r
-  $ cd Prmn2023r
+  $ mkdir Prmn2023b
+  $ cd Prmn2023b
   ````
   
   先にファイルをファイルを作成する方法もある
@@ -89,7 +89,7 @@ $ git config --global --list
   【例】
   
   ```
-  $ echo "# Prmn2023r" >> README.md
+  $ echo "# Prmn2023b" >> README.md
   $ git init
   $ git add README.md
   $ git commit -m "first commit"
@@ -107,20 +107,20 @@ $ git config --global --list
 - 左側のメニューから Java を選択
 - 上部の Project SDK で 11 （この数字は異なるかも） を選択し、Nextを押す
 - もう一度Nextを押す
-- Project locationに ”prmn2023r” フォルダへのパスを入れる
+- Project locationに ”prmn2023b” フォルダへのパスを入れる
 - Finishを押す
 
 ![image](https://user-images.githubusercontent.com/85465441/197342066-9804f7bb-5231-478d-8bb0-3844b0614481.png)
 
 ### パッケージの作成
 
-- 左側のメニューの “prmn2023r” を開く
+- 左側のメニューの “prmn2023b” を開く
 - ”src” フォルダを右クリックし、New > Packageを選択
 - package nameには、”lecture01”と記入しOKを押す
 
 今後特に指示が無い場合は ”lectureXX” の形式で作成する。
 
-例: 第3回講義では、 prmn2023r/lecture03/
+例: 第3回講義では、 prmn2023b/lecture03/
 
 ![image](https://user-images.githubusercontent.com/85465441/198200330-18ced012-4f97-4718-b2b9-4b20a36f1e9a.png)
 
