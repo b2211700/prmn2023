@@ -36,7 +36,7 @@ $ git config --global --list
   - 以下のボタンをクリック
   	![image](https://i.imgur.com/nF6O0bi.jpg)
 
-  - 以下のように入力し、Create ReposiＶ
+  - 以下のように入力し、Create Repositoryをクリックする。ここまででリモートリポジトリは完成
 ```
 
 Githubのリポジトリを更新して、プロジェクトがpush出来ていたらOK
