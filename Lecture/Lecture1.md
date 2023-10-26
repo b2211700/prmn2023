@@ -175,7 +175,7 @@ $ git config --global --list
 
 ![image](https://user-images.githubusercontent.com/85465441/198528268-70986441-812b-4a24-b6f6-f5d30be65c8e.png)
 
-- 以下のコマンドを入力する
+- 以下のコマンドを入力する ※Windowsの人は、**ローカルの右側にある"v"を押し、"git bash"を押してから**コマンドを入力してください。
 ```
 $ git add .
 $ git commit -m "Github上に表示するコメント文(例:プロジェクト作成)"
