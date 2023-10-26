@@ -101,22 +101,57 @@ $ git config --global --list
 - Githubのリポジトリ上にREADE.mdというファイルが上がっていることを確認する
 
 ### プロジェクトの作成
-- Githubにpushを行うローカルリポジトリを作成したディレクトリ下に ”prmn2022a” フォルダを作る
+- Githubにpushを行うローカルリポジトリを作成したディレクトリ下に ”prmn2023b” フォルダを作る
+- IntelliJ IDEAを起動し、ファイル　→　新規　→　プロジェクトを選択する。
 
 
-- IntelliJを起動後、Create New Project を選択する
-- 左側のメニューから Java を選択
-- 上部の Project SDK で 11 （この数字は異なるかも） を選択し、Nextを押す
-- もう一度Nextを押す
-- Project locationに ”prmn2022a” フォルダへのパスを入れる
-- Finishを押す
+  
+![image](https://i.imgur.com/HXNWYzO.png)
 
-![image](https://user-images.githubusercontent.com/85465441/197342066-9804f7bb-5231-478d-8bb0-3844b0614481.png)
+
+  
+- 以下の画面になったら、「Spring Initializer」を選択し、
+
+    - 名前:prmn2023
+  
+    - 場所：各自の”prmn2023b”フォルダのパス
+
+    - 言語:Java
+
+    - 型:Maven
+
+    - JDK:temurin-17
+
+    - version:17
+
+と設定し、「次へ」を押す。
+
+
+  
+![image](https://i.imgur.com/ajQYzge.png)
+
+
+
+  
+- 以下の画面になったら、「SQL」を選択し、
+
+    - JDBC API
+
+    - H2 DataBase
+
+にチェックを入れ、「作成」を押す。
+
+
+
+  
+![image](https://i.imgur.com/XcbZot0.png)
+
+
 
 ### パッケージの作成
 
 - 左側のメニューの “prmn2023b” を開く
-- ”src” フォルダを右クリックし、New > Packageを選択
+- ”src” → ”main” → ”java”フォルダを押し、”java”フォルダを右クリックし、New > Packageを選択
 - package nameには、”lecture01”と記入しOKを押す
 
 今後特に指示が無い場合は ”lectureXX” の形式で作成する。
@@ -136,6 +171,7 @@ $ git config --global --list
 ![image](https://user-images.githubusercontent.com/85465441/198528268-70986441-812b-4a24-b6f6-f5d30be65c8e.png)
 
 - 以下のコマンドを入力する
+※Windowsの場合はローカルの右側にある”Ｖ”を押し、**Git Bushを押してから**コマンドを入力してください
 ```
 $ git add .
 $ git commit -m "Github上に表示するコメント文(例:プロジェクト作成)"
