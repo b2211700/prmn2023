@@ -36,7 +36,111 @@ $ git config --global --list
   - 以下のボタンをクリック
   	![image](https://i.imgur.com/nF6O0bi.jpg)
 
-  - 以下のように入力し、Create Repositoryをクリックする。ここまででリモートリポジトリは完成
+ 
+ - 以下のように入力し、Create Repositoryをクリックする。ここまででリモートリポジトリは完成
+  
+	![image](https://i.imgur.com/u1ZeqBa.png)
+
+  - リポジトリが作成されると以下のような画面が表示される。この画面のまま置いておく
+  
+	![image](https://user-images.githubusercontent.com/85465441/198196394-a332b98a-2c7a-4d8c-ac4d-f7792d9bb6b5.png)
+
+- ローカルリポジトリの作成
+以下はWindowsの人はGitBash、Macの人はターミナルで操作する
+  - リポジトリを作成するディレクトリを作成する
+  
+  【Mac例】 MacintoshHD>ユーザ>ユーザ名>デスクトップ にディレクトリを作成する場合
+  ```
+  $ cd
+  $ cd Desktop
+  $ mkdir Prmn2023b
+  $ cd Prmn2023b
+  ```
+  
+  【Windows例】 Windows(C:)>Users>ユーザ名 にディレクトリを作成する場合
+  ```
+  $ cd
+  $ cd c:
+  $ cd Users
+  $ cd ユーザ名
+  $ mkdir Prmn2023b
+  $ cd Prmn2023b
+  ````
+  
+  先にファイルをファイルを作成する方法もある
+  
+  ローカルリポジトリを作成したいところで新規ファイルを保存してパスのコピーを行い、cdコマンドの後ろにつける
+  
+	【Windows】 
+	![image](https://user-images.githubusercontent.com/85465441/198379464-4e54be20-1bec-4619-abbf-825b1b450152.png)
+
+	【Mac】
+	![image](https://user-images.githubusercontent.com/85465441/198379592-a4fcfaaa-351b-4e4e-b6f4-f5d12d8aed14.png)
+ 
+  ```
+  $ cd ファイルのパス
+  ```
+  
+  
+  
+
+  - Githubの画面に戻り、表示されているコマンドを順番に進める
+  
+  ![image](https://user-images.githubusercontent.com/85465441/198198525-d11bcbef-9710-4d7d-a65b-f540c87aa9a5.png)
+  【例】
+  
+  ```
+  $ echo "# Prmn2023b" >> README.md
+  $ git init
+  $ git add README.md
+  $ git commit -m "first commit"
+  $ git branch -M main
+  $ git remote add origin 各々のGitHubのリンク
+  $ git push -u origin main
+  ```
+- Githubのリポジトリ上にREADE.mdというファイルが上がっていることを確認する
+
+### プロジェクトの作成
+- Githubにpushを行うローカルリポジトリを作成したディレクトリ下に ”prmn2022a” フォルダを作る
+
+
+- IntelliJを起動後、Create New Project を選択する
+- 左側のメニューから Java を選択
+- 上部の Project SDK で 11 （この数字は異なるかも） を選択し、Nextを押す
+- もう一度Nextを押す
+- Project locationに ”prmn2022a” フォルダへのパスを入れる
+- Finishを押す
+
+![image](https://user-images.githubusercontent.com/85465441/197342066-9804f7bb-5231-478d-8bb0-3844b0614481.png)
+
+### パッケージの作成
+
+- 左側のメニューの “prmn2023b” を開く
+- ”src” フォルダを右クリックし、New > Packageを選択
+- package nameには、”lecture01”と記入しOKを押す
+
+今後特に指示が無い場合は ”lectureXX” の形式で作成する。
+
+例: 第3回講義では、 prmn2022a/lecture03/
+
+![image](https://user-images.githubusercontent.com/85465441/198200330-18ced012-4f97-4718-b2b9-4b20a36f1e9a.png)
+
+### Githubにプロジェクトをpushする
+
+- IntelliJのターミナルを開く
+
+![image](https://user-images.githubusercontent.com/85465441/198525531-5e61a929-75da-40c4-bdc8-24b7b7523d0d.png)
+
+- 現在いる場所がプロジェクトになっていることを確認する
+
+![image](https://user-images.githubusercontent.com/85465441/198528268-70986441-812b-4a24-b6f6-f5d30be65c8e.png)
+
+- 以下のコマンドを入力する
+```
+$ git add .
+$ git commit -m "Github上に表示するコメント文(例:プロジェクト作成)"
+$ git push origin main
+```
 
 
 Githubのリポジトリを更新して、プロジェクトがpush出来ていたらOK
