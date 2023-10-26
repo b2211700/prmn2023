@@ -34,7 +34,7 @@ $ git config --global --list
 - [Github](https://github.co.jp/)にアクセスし、サインインする
 - Github上にリモートリポジトリを作成する
   - 以下のボタンをクリック
-  	![image](https://github.com/Shodaiki/2022prmna/blob/main/messageImage_1698134683684.jpg)
+  	![image](https://i.imgur.com/nF6O0bi.jpg)
 
   - 以下のように入力し、Create Repositoryをクリックする。ここまででリモートリポジトリは完成
   
