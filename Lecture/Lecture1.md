@@ -112,7 +112,7 @@ $ git config --global --list
   
 - 以下の画面になったら、「Spring Initializer」を選択し、
 
-    - 名前:prmn2023
+    - 名前:prmn2023b
   
     - 場所：各自の”prmn2023b”フォルダのパス
 
