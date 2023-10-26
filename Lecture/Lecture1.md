@@ -100,7 +100,7 @@ $ git config --global --list
 - Githubのリポジトリ上にREADE.mdというファイルが上がっていることを確認する
 
 ### プロジェクトの作成
-- Githubにpushを行うローカルリポジトリを作成したディレクトリ下に ”prmn2023r” フォルダを作る
+- Githubにpushを行うローカルリポジトリを作成したディレクトリ下に ”prmn2023b” フォルダを作る
 
 
 - IntelliJを起動後、Create New Project を選択する
