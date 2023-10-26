@@ -105,14 +105,14 @@ $ git config --global --list
   
   
 
-![image](https://github.com/Shodaiki/2022prmna/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-10-16%20131056.png)
+![image](https://i.imgur.com/HXNWYzO.png)
   
  
 
 - 以下の画面になったら、「Spring Initializer」を選択し、
 
 
-    - 名前：prmn2023
+    - 名前：prmn2023b
 
 
     - 場所：各自の"prmn2023b"フォルダのパス
@@ -134,16 +134,24 @@ $ git config --global --list
   
   
  
-![image](https://github.com/Shodaiki/2022prmna/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-10-16%20134331.png)
+![image](https://i.imgur.com/ajQYzge.png)
 
-- IntelliJを起動後、Create New Project を選択する
-- 左側のメニューから Java を選択
-- 上部の Project SDK で 11 （この数字は異なるかも） を選択し、Nextを押す
-- もう一度Nextを押す
-- Project locationに ”prmn2023b” フォルダへのパスを入れる
-- Finishを押す
+- 以下の画面になったら、「SQL」を選択し、
 
-![image](https://user-images.githubusercontent.com/85465441/197342066-9804f7bb-5231-478d-8bb0-3844b0614481.png)
+
+    - JDBC API
+
+
+    - H2 DataBase
+
+
+にチェックを入れ、「作成」を押す
+  
+  
+ 
+  
+![image](https://i.imgur.com/XcbZot0.png)
+
 
 ### パッケージの作成
 
