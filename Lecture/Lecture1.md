@@ -37,13 +37,13 @@ $ git config --global --list
   	![image](https://i.imgur.com/nF6O0bi.jpg)
 
   - 以下のように入力し、Create Repositoryをクリックする。ここまででリモートリポジトリは完成
-```
+
 
 Githubのリポジトリを更新して、プロジェクトがpush出来ていたらOK
 
 GitBashやターミナルでも同じコマンドでpushを行えるが、--ディレクトリをプロジェクトまで移動するのを忘れないように--
 pushはできるだけ細かく行い、コメント文は簡潔に([パッケージ](https://github.com/fujiitomoko/ProjectMember2022Document/edit/main/Lecture/Lecture1.md#パッケージ)・[クラス](https://github.com/fujiitomoko/ProjectMember2022Document/edit/main/Lecture/Lecture1.md#クラス)・[メソッド](https://github.com/fujiitomoko/ProjectMember2022Document/edit/main/Lecture/Lecture1.md#メソッド)を作ったときなど)
-```
+
 
 
 ### クラスの作成
