@@ -156,7 +156,7 @@ $ git config --global --list
 
 今後特に指示が無い場合は ”lectureXX” の形式で作成する。
 
-例: 第3回講義では、 prmn2022a/lecture03/
+例: 第3回講義では、 prmn2023b/lecture03/
 
 ![image](https://user-images.githubusercontent.com/85465441/198200330-18ced012-4f97-4718-b2b9-4b20a36f1e9a.png)
 
