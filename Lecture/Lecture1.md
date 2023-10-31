@@ -147,6 +147,15 @@ $ git config --global --list
 ![image](https://i.imgur.com/XcbZot0.png)
 
 
+### pom.xmlをプロジェクトに反映させる
+
+※追加部分です、確認お願いします（2023/10/31）
+
+- pom.xmlファイルを開く
+- エディタ上で右クリックし、Maven > プロジェクトの再ロード を選択
+
+
+
 
 ### パッケージの作成
 
