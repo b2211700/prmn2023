@@ -4,7 +4,7 @@
 
 # 実習の準備
 ## ベースとなるプロジェクトの準備
-* Discordの資料からdb_prac.zipをダウンロードし、展開する
+* Discordの`資料`から`db_prac.zip`をダウンロードし、展開する
 * IntelliJ IDEAを起動する
 * 展開したdb_pracフォルダのpom.xmlをIntelliJで開く（プロジェクトとして開く）
 
