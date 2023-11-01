@@ -80,7 +80,7 @@
 # delete（削除）ステートメントをJDBCで実行する
 ## データべースを利用するクラス（PreExamDAO.java）
 * 作成した**PreExamDAO**クラスに、**deletePreExam**メソッドを追加する
-* deletePreExamメソッドに、データ削除の対象となる学生番号を引数として渡すと、その学籍番号のタプルを学生情報テーブルから削除するようにしたい
+* deletePreExamメソッドに、データ削除の対象となる学生コードを引数として渡すと、その学生コードのタプルを学生情報テーブルから削除するようにしたい
 
 ![PreExamDAOクラスdeletePreExamメソッド完成版](https://github.com/b2211700/prmn2023/assets/109058900/d327645a-617e-4bfb-b68f-6c05a9291f62)
 
@@ -105,7 +105,7 @@
 # insert(追加)ステートメントをJDBCで実行する
 ## データべースを利用するクラス（PreExamDAO.java）
 * 作成した**PreExamDAO**クラスに、**insertPreExam**メソッドを追加する
-* insertPreExamメソッドに、学生番号と氏名、得点をそれぞれ`gakusekiCode`, `familyname`, `firstname`, `point`引数として渡すと、学生情報テーブルのタプルとして追加するようにしたい
+* insertPreExamメソッドに、学生コードと氏名、得点をそれぞれ`gakusekiCode`, `familyname`, `firstname`, `point`引数として渡すと、学生情報テーブルのタプルとして追加するようにしたい
 
 ![PreExamDAOクラスinsertPreExamメソッド完成版](https://github.com/b2211700/prmn2023/assets/109058900/8fb6823d-ee79-4c98-a028-80e0e761c42d)
 
