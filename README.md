@@ -8,5 +8,5 @@
 
 [・Lecture3 データベース編1](Lecture/lecture3.md)
 
-[・Lecture4 データベース編2](Lecture/lecture3.md)
+[・Lecture4 データベース編2](Lecture/lecture4.md)
 
