@@ -105,6 +105,6 @@ DBMSの中でデータモデルと同じ形式でデータ構造を再現する�
 
 ![データモデルとスキーマの関係　完成版](https://github.com/b2211700/prmn2023/assets/109058900/d2cca5bc-260f-4c59-bfff-77bcbad03ed1)
 
-
+次は[SQL](https://twitter.com/home)についてです
 
 
