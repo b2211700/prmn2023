@@ -60,3 +60,9 @@ delete from 人 where 氏 = '千歳';
 ```
 delete from 人 where 氏 = '千歳' and 名 = '光';
 ```
+
+
+<br>
+DB基礎編はここまでになります。お疲れさまでした！
+
+[目次](../README.md)へ
