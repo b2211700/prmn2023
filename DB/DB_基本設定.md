@@ -32,6 +32,4 @@
 ![image](https://github.com/Shodaiki/2022prmna/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-10-25%20153125.png)
 
 
-今回はここまでになります。お疲れさまでした。
-
-[目次へ](../README.md)
+[演習に戻る](../Lecture/lecture4.md)
