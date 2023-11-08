@@ -52,7 +52,11 @@
 
 <br>
 
-ここまでできたらGit hubにcommit/pushをしてください
+ここまでできたらGitHubにcommit/pushをしてください
+
+* IntelliJのターミナルを開く
+* 以下のコマンドを入力する
+> Windowsの場合はローカルのタブの右側にある`∨`を押し、`Git Bush`を選択してからコマンドを入力してください
 ```
 git add .
 git commit -m "学生情報テーブルを作成した"
@@ -108,7 +112,12 @@ git push
 
 <br>
 
-ここまでできたらGit hubにcommit/pushをしてください
+ここまでできたらGitHubにcommit/pushをしてください
+
+* IntelliJのターミナルを開く
+* 以下のコマンドを入力する
+> Windowsの場合はローカルのタブの右側にある`∨`を押し、`Git Bush`を選択してからコマンドを入力してください
+
 ```
 git add .
 git commit -m "Selectクラスを作成した"
@@ -148,7 +157,12 @@ git push
 
 <br>
 
-ここまでできたらGit hubにcommit/pushをしてください
+ここまでできたらGitHubにcommit/pushをしてください
+
+* IntelliJのターミナルを開く
+* 以下のコマンドを入力する
+> Windowsの場合はローカルのタブの右側にある`∨`を押し、`Git Bush`を選択してからコマンドを入力してください
+
 ```
 git add .
 git commit -m "Deleteクラスを作成した"
@@ -187,7 +201,12 @@ git push
 
 <br>
 
-ここまでできたらGit hubにcommit/pushをしてください
+ここまでできたらGitHubにcommit/pushをしてください
+
+* IntelliJのターミナルを開く
+* 以下のコマンドを入力する
+> Windowsの場合はローカルのタブの右側にある`∨`を押し、`Git Bush`を選択してからコマンドを入力してください
+
 ```
 git add .
 git commit -m "Insertクラスを作成した"
