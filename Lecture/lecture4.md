@@ -8,7 +8,7 @@
 # 実習の準備
 ## ベースとなるプロジェクトの準備
 * Discordの`資料`から`db_prac.zip`をダウンロードし、展開する
-* 展開したdb_pracフォルダをlecture1で作成したフォルダに移動させる（README.mdがあるフォルダ）
+* 展開したdb_pracフォルダをlecture1で作成した`Prmn2023b`に移動させる（README.mdと同じ位置）
 * IntelliJ IDEAを起動する
 * 移動させたdb_pracフォルダのpom.xmlをIntelliJで開く（プロジェクトとして開く）
 
@@ -67,6 +67,10 @@ git push
 ## 学生情報クラス（PreExam.java）
 * `src` > `main` > `Java` > `jp.ac.chitose.db_prac` の中に、**PreExam**クラスを作成する
 * これは、学生情報テーブルからの検索結果を格納するインスタンスを生成するためのクラスである
+
+> もし「Git に次のファイルを追加しますか？」と言われたら`追加(A)`を選択してください
+
+<br>
 
 ![PreExamクラス](https://github.com/b2211700/prmn2023/assets/109058900/280555ae-bebb-40bc-a5a8-f544362aee8c)
 
