@@ -52,6 +52,13 @@
 
 <br>
 
+ここまでできたらGit hubにcommit/pushをしてください
+```
+git add .
+git commit -m "学生情報テーブルを作成した"
+git push
+```
+
 # select(検索)ステートメントをJDBCで実行する
 学生情報テーブルからある点数未満のデータを取り出すことを例に、JDBCを利用したプログラムを作成する
 
@@ -95,15 +102,15 @@
 * 不合格者の基準点を`90`点としたとき実行結果がどうなるか確認しよう
 * 不合格者の基準点を`80`点としたとき実行結果がどう変わるか確認しよう
 
+<br>
+
 ここまでできたらGit hubにcommit/pushをしてください
 ```
 git add .
-git commit -m "データベースを作成し"
+git commit -m "Selectクラスを作成した"
 git push
 ```
 
-
-<br>
 
 # delete（削除）ステートメントをJDBCで実行する
 
@@ -137,6 +144,13 @@ git push
 
 <br>
 
+ここまでできたらGit hubにcommit/pushをしてください
+```
+git add .
+git commit -m "Deleteクラスを作成した"
+git push
+```
+
 # insert(追加)ステートメントをJDBCで実行する
 
 
@@ -168,6 +182,13 @@ git push
 * 演習3のように、**SelectDemo**クラスのmainメソッドを実行し、不合格者の基準点に`90`を入力した時に、実行結果に学生が追加されていることを確認しよう
 
 <br>
+
+ここまでできたらGit hubにcommit/pushをしてください
+```
+git add .
+git commit -m "Insertクラスを作成した"
+git push
+```
 
 データベース演習パートはここまでです。お疲れさまでした！
 
