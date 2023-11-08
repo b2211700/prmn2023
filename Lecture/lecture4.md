@@ -8,8 +8,9 @@
 # 実習の準備
 ## ベースとなるプロジェクトの準備
 * Discordの`資料`から`db_prac.zip`をダウンロードし、展開する
+* 展開したdb_pracフォルダをlecture1で作成したフォルダに移動させる（README.mdがあるフォルダ）
 * IntelliJ IDEAを起動する
-* 展開したdb_pracフォルダのpom.xmlをIntelliJで開く（プロジェクトとして開く）
+* 移動させたdb_pracフォルダのpom.xmlをIntelliJで開く（プロジェクトとして開く）
 
 <br>
 
